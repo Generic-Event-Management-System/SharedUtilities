@@ -1,0 +1,6 @@
+@SharedUtilities_HostAddress = http://localhost:5198
+
+GET {{SharedUtilities_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
